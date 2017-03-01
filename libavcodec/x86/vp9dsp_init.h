@@ -1,4 +1,4 @@
-/*
+﻿/*
  * VP9 SIMD optimizations
  *
  * Copyright (c) 2013 Ronald S. Bultje <rsbultje gmail com>

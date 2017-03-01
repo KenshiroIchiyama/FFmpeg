@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Intel MediaSDK QSV encoder utility functions
  *
  * copyright (c) 2013 Yukinori Yamazoe

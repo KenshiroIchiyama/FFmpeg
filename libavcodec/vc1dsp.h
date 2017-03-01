@@ -1,4 +1,4 @@
-/*
+﻿/*
  * VC-1 and WMV3 decoder - DSP functions
  * Copyright (c) 2006 Konstantin Shishkov
  *

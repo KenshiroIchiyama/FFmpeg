@@ -1,4 +1,4 @@
-/*
+﻿/*
  * HQX DSP routines
  *
  * This file is part of FFmpeg.

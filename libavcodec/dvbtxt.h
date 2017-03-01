@@ -1,4 +1,4 @@
-/*
+﻿/*
  * DVB teletext common functions.
  *
  * This file is part of FFmpeg.

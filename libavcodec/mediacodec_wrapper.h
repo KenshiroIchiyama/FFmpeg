@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Android MediaCodec Wrapper
  *
  * Copyright (c) 2015-2016 Matthieu Bouron <matthieu.bouron stupeflix.com>

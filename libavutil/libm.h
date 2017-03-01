@@ -1,4 +1,4 @@
-/*
+﻿/*
  * erf function: Copyright (c) 2006 John Maddock
  * This file is part of FFmpeg.
  *

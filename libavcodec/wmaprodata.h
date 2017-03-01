@@ -1,4 +1,4 @@
-/*
+﻿/*
  * WMA 9/3/PRO compatible decoder
  * Copyright (c) 2007 Baptiste Coudurier, Benjamin Larsson, Ulion
  * Copyright (c) 2008 - 2009 Sascha Sommer

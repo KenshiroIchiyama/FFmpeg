@@ -1,7 +1,7 @@
 /*
  * SubRip subtitle demuxer
  * Copyright (c) 2010  Aurelien Jacobs <aurel@gnuage.org>
- * Copyright (c) 2015  Clément Bœsch <u pkh me>
+ * Copyright (c) 2015  Clテゥment Bナ都ch <u pkh me>
  *
  * This file is part of FFmpeg.
  *

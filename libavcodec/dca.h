@@ -1,4 +1,4 @@
-/*
+﻿/*
  * DCA compatible decoder
  * Copyright (C) 2004 Gildas Bazin
  * Copyright (C) 2004 Benjamin Zores

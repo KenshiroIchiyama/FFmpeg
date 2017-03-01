@@ -1,4 +1,4 @@
-/*
+﻿/*
  * QCELP decoder
  * Copyright (c) 2007 Reynaldo H. Verdejo Pinochet
  *

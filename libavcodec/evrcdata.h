@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Enhanced Variable Rate Codec, Service Option 3 decoder
  * Copyright (c) 2013 Paul B Mahol
  *

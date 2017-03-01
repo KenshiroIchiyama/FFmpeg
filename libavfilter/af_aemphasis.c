@@ -60,10 +60,10 @@ static const AVOption aemphasis_options[] = {
     { "bsi",              "BSI (78RPM)",            0, AV_OPT_TYPE_CONST, {.i64=2}, 0, 0, FLAGS, "type" },
     { "riaa",                    "RIAA",            0, AV_OPT_TYPE_CONST, {.i64=3}, 0, 0, FLAGS, "type" },
     { "cd",         "Compact Disc (CD)",            0, AV_OPT_TYPE_CONST, {.i64=4}, 0, 0, FLAGS, "type" },
-    { "50fm",               "50µs (FM)",            0, AV_OPT_TYPE_CONST, {.i64=5}, 0, 0, FLAGS, "type" },
-    { "75fm",               "75µs (FM)",            0, AV_OPT_TYPE_CONST, {.i64=6}, 0, 0, FLAGS, "type" },
-    { "50kf",            "50µs (FM-KF)",            0, AV_OPT_TYPE_CONST, {.i64=7}, 0, 0, FLAGS, "type" },
-    { "75kf",            "75µs (FM-KF)",            0, AV_OPT_TYPE_CONST, {.i64=8}, 0, 0, FLAGS, "type" },
+    { "50fm",               "50袖s (FM)",            0, AV_OPT_TYPE_CONST, {.i64=5}, 0, 0, FLAGS, "type" },
+    { "75fm",               "75袖s (FM)",            0, AV_OPT_TYPE_CONST, {.i64=6}, 0, 0, FLAGS, "type" },
+    { "50kf",            "50袖s (FM-KF)",            0, AV_OPT_TYPE_CONST, {.i64=7}, 0, 0, FLAGS, "type" },
+    { "75kf",            "75袖s (FM-KF)",            0, AV_OPT_TYPE_CONST, {.i64=8}, 0, 0, FLAGS, "type" },
     { NULL }
 };
 
@@ -244,7 +244,7 @@ static int config_input(AVFilterLink *inlink)
         j = 1. / (2. * M_PI * tau2);
         k = 1. / (2. * M_PI * tau3);
         break;
-    case 5: //"50µs FM (Europe)"
+    case 5: //"50袖s FM (Europe)"
         tau1 = 0.000050;
         tau2 = tau1 / 20;// not used
         tau3 = tau1 / 50;//
@@ -252,7 +252,7 @@ static int config_input(AVFilterLink *inlink)
         j = 1. / (2. * M_PI * tau2);
         k = 1. / (2. * M_PI * tau3);
         break;
-    case 6: //"75µs FM (US)"
+    case 6: //"75袖s FM (US)"
         tau1 = 0.000075;
         tau2 = tau1 / 20;// not used
         tau3 = tau1 / 50;//

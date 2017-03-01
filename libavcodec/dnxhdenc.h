@@ -1,4 +1,4 @@
-/*
+﻿/*
  * VC3/DNxHD encoder structure definitions and prototypes
  * Copyright (c) 2007 Baptiste Coudurier <baptiste dot coudurier at smartjog dot com>
  *

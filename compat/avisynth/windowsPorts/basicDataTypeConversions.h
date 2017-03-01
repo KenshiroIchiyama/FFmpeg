@@ -1,4 +1,4 @@
-#ifndef __DATA_TYPE_CONVERSIONS_H__
+﻿#ifndef __DATA_TYPE_CONVERSIONS_H__
 #define __DATA_TYPE_CONVERSIONS_H__
 
 #include <stdint.h>

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2010-2011 Maxim Poliakovski
  * Copyright (c) 2010-2011 Elvis Presley
  *

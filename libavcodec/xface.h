@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 1990 James Ashton - Sydney University
  * Copyright (c) 2012 Stefano Sabatini
  *

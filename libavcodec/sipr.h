@@ -1,4 +1,4 @@
-/*
+﻿/*
  * SIPR / ACELP.NET decoder
  *
  * Copyright (c) 2008 Vladimir Voroshilov

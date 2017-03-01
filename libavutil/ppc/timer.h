@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2005 Luca Barbato <lu_zero@gentoo.org>
  *
  * This file is part of FFmpeg.

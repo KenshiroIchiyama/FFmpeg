@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Windows Media Voice (WMAVoice) tables.
  * Copyright (c) 2009 Ronald S. Bultje
  *

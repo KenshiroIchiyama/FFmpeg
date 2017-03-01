@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RTSP definitions
  * copyright (c) 2002 Fabrice Bellard
  * copyright (c) 2014 Samsung Electronics. All rights reserved.

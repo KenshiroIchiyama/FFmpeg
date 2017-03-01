@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MPEG-1/2 common code
  * Copyright (c) 2007 Aurelien Jacobs <aurel@gnuage.org>
  *

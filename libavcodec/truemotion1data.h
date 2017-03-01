@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Duck Truemotion v1 Decoding Tables
  *
  * Data in this file was originally part of VpVision from On2 which is

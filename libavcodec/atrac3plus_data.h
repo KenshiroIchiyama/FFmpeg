@@ -1,4 +1,4 @@
-/*
+﻿/*
  * ATRAC3+ compatible decoder
  *
  * Copyright (c) 2010-2013 Maxim Poliakovski

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * WavPack decoder/encoder common code
  * Copyright (c) 2006,2011 Konstantin Shishkov
  *

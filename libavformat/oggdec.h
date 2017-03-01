@@ -1,5 +1,5 @@
-/**
-    Copyright (C) 2005  Michael Ahlberg, Måns Rullgård
+﻿/**
+    Copyright (C) 2005  Michael Ahlberg, M奪ns Rullg奪rd
 
     Permission is hereby granted, free of charge, to any person
     obtaining a copy of this software and associated documentation

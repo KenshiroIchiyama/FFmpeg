@@ -1,7 +1,7 @@
-/*
+﻿/*
  * Header file for hardcoded motion pixels RGB to YUV table
  *
- * Copyright (c) 2009 Reimar Döffinger <Reimar.Doeffinger@gmx.de>
+ * Copyright (c) 2009 Reimar D旦ffinger <Reimar.Doeffinger@gmx.de>
  *
  * This file is part of FFmpeg.
  *

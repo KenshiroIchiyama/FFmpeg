@@ -1,4 +1,4 @@
-/*
+﻿/*
  * a64 video encoder - tables used by a64 encoders
  * Copyright (c) 2009 Tobias Bindhammer
  *

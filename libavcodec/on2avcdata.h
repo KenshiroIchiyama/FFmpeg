@@ -1,4 +1,4 @@
-/*
+﻿/*
  * On2 Audio for Video Codec decoder
  *
  * Copyright (c) 2013 Konstantin Shishkov

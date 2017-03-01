@@ -56,7 +56,7 @@ static int exchange(MqcState *mqc, uint8_t *cxstate, int lps)
         d = 1 - (*cxstate & 1);
         *cxstate = ff_mqc_nlps[*cxstate];
     }
-    // do RENORMD: see ISO/IEC 15444-1:2002 §C.3.3
+    // do RENORMD: see ISO/IEC 15444-1:2002 則C.3.3
     do {
         if (!(mqc->c & 0xff)) {
             mqc->c -= 0x100;

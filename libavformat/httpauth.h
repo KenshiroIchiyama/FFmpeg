@@ -1,4 +1,4 @@
-/*
+﻿/*
  * HTTP authentication
  * Copyright (c) 2010 Martin Storsjo
  *

@@ -104,7 +104,7 @@ static void make_sin_table(int16_t *sin)
             s = sin[i] + sin[i + step];
             c = sin[half_pi - i] + sin[half_pi - i - step];
             n2 = s * s + c * c;
-            /* Newton's method to solve n² * k² = unit² */
+            /* Newton's method to solve n族 * k族 = unit族 */
             while (1) {
                 new_k = (k + unit2 / ((uint64_t)k * n2) + 1) >> 1;
                 if (k == new_k)

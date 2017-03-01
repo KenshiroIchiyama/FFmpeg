@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2003 Mike Melanson
  * Copyright (C) 2003 Dr. Tim Ferguson
  *

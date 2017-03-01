@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Default Palettes for Quicktime Files
  *  Automatically generated from a utility derived from XAnim:
  *  http://xanim.va.pubnix.com/home.html

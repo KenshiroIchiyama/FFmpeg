@@ -1,4 +1,4 @@
-/*
+﻿/*
  * copyright (c) 2000,2001 Fabrice Bellard
  * H.263+ support
  * copyright (c) 2002-2004 Michael Niedermayer <michaelni@gmx.at>

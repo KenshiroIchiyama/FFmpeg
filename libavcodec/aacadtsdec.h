@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC ADTS header decoding prototypes and structures
  * Copyright (c) 2003 Fabrice Bellard
  * Copyright (c) 2003 Michael Niedermayer

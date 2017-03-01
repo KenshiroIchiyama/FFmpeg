@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RTP muxer definitions
  * Copyright (c) 2002 Fabrice Bellard
  *

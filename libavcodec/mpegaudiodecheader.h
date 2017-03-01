@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MPEG Audio header decoder
  * Copyright (c) 2001, 2002 Fabrice Bellard
  *

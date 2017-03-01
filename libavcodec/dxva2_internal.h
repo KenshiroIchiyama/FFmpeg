@@ -1,4 +1,4 @@
-/*
+﻿/*
  * DXVA2 HW acceleration
  *
  * copyright (c) 2010 Laurent Aimar

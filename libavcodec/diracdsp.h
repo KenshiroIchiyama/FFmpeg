@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2010 David Conrad
  *
  * This file is part of FFmpeg.

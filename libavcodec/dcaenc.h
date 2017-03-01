@@ -1,4 +1,4 @@
-/*
+﻿/*
  * DCA encoder tables
  * Copyright (C) 2008-2012 Alexander E. Patrakov
  *

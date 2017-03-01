@@ -1,4 +1,4 @@
-/*
+﻿/*
  * H.26L/H.264/AVC/JVT/14496-10/... motion vector prediction
  * Copyright (c) 2003 Michael Niedermayer <michaelni@gmx.at>
  *

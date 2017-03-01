@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Android MediaCodec Surface functions
  *
  * Copyright (c) 2016 Matthieu Bouron <matthieu.bouron stupeflix.com>

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Shared functions between AMR codecs
  *
  * Copyright (c) 2010 Marcelo Galvao Povoa

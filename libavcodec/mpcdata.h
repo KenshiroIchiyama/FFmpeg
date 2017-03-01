@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Musepack decoder
  * Copyright (c) 2006 Konstantin Shishkov
  *

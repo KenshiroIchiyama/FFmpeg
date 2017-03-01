@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MPEG-4 encoder/decoder internal header.
  * Copyright (c) 2000,2001 Fabrice Bellard
  * Copyright (c) 2002-2010 Michael Niedermayer <michaelni@gmx.at>

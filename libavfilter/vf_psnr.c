@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2011 Roger Pau Monné <roger.pau@entel.upc.edu>
+ * Copyright (c) 2011 Roger Pau Monn辿 <roger.pau@entel.upc.edu>
  * Copyright (c) 2011 Stefano Sabatini
  * Copyright (c) 2013 Paul B Mahol
  *

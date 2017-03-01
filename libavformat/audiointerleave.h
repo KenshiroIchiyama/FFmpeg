@@ -1,4 +1,4 @@
-/*
+﻿/*
  * audio interleaving prototypes and declarations
  *
  * Copyright (c) 2009 Baptiste Coudurier <baptiste dot coudurier at gmail dot com>

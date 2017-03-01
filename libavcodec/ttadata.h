@@ -1,4 +1,4 @@
-/*
+﻿/*
  * TTA (The Lossless True Audio) data
  *
  * This file is part of FFmpeg.

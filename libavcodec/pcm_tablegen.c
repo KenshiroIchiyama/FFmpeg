@@ -1,7 +1,7 @@
 /*
  * Generate a header file for hardcoded PCM tables
  *
- * Copyright (c) 2010 Reimar Döffinger <Reimar.Doeffinger@gmx.de>
+ * Copyright (c) 2010 Reimar D旦ffinger <Reimar.Doeffinger@gmx.de>
  *
  * This file is part of FFmpeg.
  *

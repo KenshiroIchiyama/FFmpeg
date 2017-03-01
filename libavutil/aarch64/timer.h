@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2015 Janne Grunau <janne-libav@jannau.net>
  *
  * This file is part of FFmpeg.

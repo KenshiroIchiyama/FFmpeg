@@ -1,4 +1,4 @@
-/*
+﻿/*
  * QDM2 compatible decoder
  * Copyright (c) 2003 Ewald Snel
  * Copyright (c) 2005 Benjamin Larsson

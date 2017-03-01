@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RTMP packet utilities
  * Copyright (c) 2009 Konstantin Shishkov
  *

@@ -555,7 +555,7 @@ static int compensate_volume(AVFilterContext *ctx)
     int m;
 
     if (s->sofa.ncid) {
-        /* find IR at front center position in the SOFA file (IR closest to 0°,0°,1m) */
+        /* find IR at front center position in the SOFA file (IR closest to 0属,0属,1m) */
         struct NCSofa *sofa = &s->sofa;
         m = find_m(s, 0, 0, 1);
         /* get energy of that IR and compensate volume */

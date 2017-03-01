@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC encoder intensity stereo
  * Copyright (C) 2015 Rostislav Pehlivanov
  *

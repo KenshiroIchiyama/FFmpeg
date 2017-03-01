@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC encoder
  * Copyright (C) 2008 Konstantin Shishkov
  *

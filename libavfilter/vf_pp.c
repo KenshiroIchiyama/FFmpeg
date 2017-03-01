@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2002 A'rpi
- * Copyright (C) 2012 Clément Bœsch
+ * Copyright (C) 2012 Clテゥment Bナ都ch
  *
  * This file is part of FFmpeg.
  *

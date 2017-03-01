@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RTMP Diffie-Hellmann utilities
  * Copyright (c) 2012 Samuel Pitoiset
  *

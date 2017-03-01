@@ -1,4 +1,4 @@
-/*
+﻿/*
  * DirectShow capture interface
  * Copyright (c) 2010 Ramiro Polla
  *

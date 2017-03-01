@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Various fixed-point math operations
  *
  * Copyright (c) 2008 Vladimir Voroshilov

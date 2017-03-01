@@ -1,4 +1,4 @@
-/*
+﻿/*
  * IBM Ultimotion Video Decoder
  * copyright (C) 2004 Konstantin Shishkov
  *

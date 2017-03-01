@@ -1,6 +1,6 @@
 /*
  * Microsoft Advanced Streaming Format demuxer
- * Copyright (c) 2014 Alexandra Hájková
+ * Copyright (c) 2014 Alexandra H叩jkov叩
  *
  * This file is part of FFmpeg.
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * ID3v2 header parser
  * Copyright (c) 2003 Fabrice Bellard
  *

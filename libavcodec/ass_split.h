@@ -1,4 +1,4 @@
-/*
+﻿/*
  * SSA/ASS spliting functions
  * Copyright (c) 2010  Aurelien Jacobs <aurel@gnuage.org>
  *

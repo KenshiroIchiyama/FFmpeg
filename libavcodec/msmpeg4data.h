@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MSMPEG4 backend for encoder and decoder
  * copyright (c) 2001 Fabrice Bellard
  * copyright (c) 2002-2004 Michael Niedermayer <michaelni@gmx.at>

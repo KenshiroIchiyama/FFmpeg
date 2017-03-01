@@ -1,4 +1,4 @@
-/*
+﻿/*
  * JNI utility functions
  *
  * Copyright (c) 2015-2016 Matthieu Bouron <matthieu.bouron stupeflix.com>

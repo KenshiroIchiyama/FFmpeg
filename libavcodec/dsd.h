@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Direct Stream Digital (DSD) decoder
  * based on BSD licensed dsd2pcm by Sebastian Gesemann
  * Copyright (c) 2009, 2011 Sebastian Gesemann. All rights reserved.

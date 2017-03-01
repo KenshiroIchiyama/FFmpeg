@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2012-2013 Clément Bœsch
+ * Copyright (c) 2012-2013 Clテゥment Bナ都ch
  * Copyright (c) 2013 Rudolf Polzer <divverent@xonotic.org>
  * Copyright (c) 2015 Paul B Mahol
  *

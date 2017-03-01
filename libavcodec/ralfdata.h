@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RealAudio Lossless decoder
  *
  * Copyright (c) 2012 Konstantin Shishkov

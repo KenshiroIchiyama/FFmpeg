@@ -1,4 +1,4 @@
-/*
+﻿/*
  * JPEG 2000 DSP functions
  * Copyright (c) 2007 Kamil Nowosad
  * Copyright (c) 2013 Nicolas Bertrand <nicoinattendu@gmail.com>

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * ELS (Entropy Logarithmic-Scale) decoder
  *
  * Copyright (c) 2013 Maxim Poliakovski

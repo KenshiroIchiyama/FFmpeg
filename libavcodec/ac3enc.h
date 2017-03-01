@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AC-3 encoder & E-AC-3 encoder common header
  * Copyright (c) 2000 Fabrice Bellard
  * Copyright (c) 2006-2010 Justin Ruggles <justin.ruggles@gmail.com>

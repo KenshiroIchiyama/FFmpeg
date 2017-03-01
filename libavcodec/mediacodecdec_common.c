@@ -51,11 +51,11 @@
  * Gstreamer copyright notice:
  *
  * Copyright (C) 2012, Collabora Ltd.
- *   Author: Sebastian Dröge <sebastian.droege@collabora.co.uk>
+ *   Author: Sebastian Dr旦ge <sebastian.droege@collabora.co.uk>
  *
- * Copyright (C) 2012, Rafaël Carré <funman@videolanorg>
+ * Copyright (C) 2012, Rafa谷l Carr辿 <funman@videolanorg>
  *
- * Copyright (C) 2015, Sebastian Dröge <sebastian@centricular.com>
+ * Copyright (C) 2015, Sebastian Dr旦ge <sebastian@centricular.com>
  *
  * Copyright (C) 2014-2015, Collabora Ltd.
  *   Author: Matthieu Bouron <matthieu.bouron@gcollabora.com>

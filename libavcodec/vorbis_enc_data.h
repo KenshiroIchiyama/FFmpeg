@@ -1,4 +1,4 @@
-/*
+﻿/*
  * copyright (c) 2006 Oded Shimon <ods15@ods15.dyndns.org>
  *
  * This file is part of FFmpeg.

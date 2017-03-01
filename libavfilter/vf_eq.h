@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Original MPlayer filters by Richard Felker, Hampa Hug, Daniel Moreno,
  * and Michael Niedermeyer.
  *

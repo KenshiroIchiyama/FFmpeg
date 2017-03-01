@@ -1,6 +1,6 @@
 /*
  * D-Cinema audio demuxer
- * Copyright (c) 2005 Reimar Döffinger
+ * Copyright (c) 2005 Reimar D旦ffinger
  *
  * This file is part of FFmpeg.
  *

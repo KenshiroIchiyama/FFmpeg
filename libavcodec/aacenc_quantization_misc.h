@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC encoder quantization
  * Copyright (C) 2015 Claudio Freire
  *

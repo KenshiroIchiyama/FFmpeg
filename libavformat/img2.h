@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Image format
  * Copyright (c) 2014 Michael Niedermayer
  *

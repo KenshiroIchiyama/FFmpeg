@@ -37,7 +37,7 @@
 #define NUMTAPS 64
 
 static const int8_t filt[NUMTAPS] = {
-/* 30°  330° */
+/* 30属  330属 */
     4,   -6,     /* 32 tap stereo FIR filter. */
     4,  -11,     /* One side filters as if the */
    -1,   -5,     /* signal was from 30 degrees */

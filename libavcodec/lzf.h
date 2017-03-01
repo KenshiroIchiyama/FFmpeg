@@ -1,4 +1,4 @@
-/*
+﻿/*
  * lzf decompression algorithm
  * Copyright (c) 2015 Luca Barbato
  *

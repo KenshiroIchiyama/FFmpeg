@@ -2,7 +2,7 @@
  * MPEG-4 Part 10 / AVC / H.264 HW decode acceleration through VDPAU
  *
  * Copyright (c) 2008 NVIDIA
- * Copyright (c) 2013 Rémi Denis-Courmont
+ * Copyright (c) 2013 R辿mi Denis-Courmont
  *
  * This file is part of FFmpeg.
  *

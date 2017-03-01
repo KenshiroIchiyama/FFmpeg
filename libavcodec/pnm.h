@@ -1,4 +1,4 @@
-/*
+﻿/*
  * PNM image format
  * Copyright (c) 2002, 2003 Fabrice Bellard
  *

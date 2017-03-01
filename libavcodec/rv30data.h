@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RealVideo 3 decoder
  * copyright (c) 2007 Konstantin Shishkov
  *

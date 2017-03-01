@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MPEG-1/2 muxer and demuxer common defines
  * Copyright (c) 2000, 2001, 2002 Fabrice Bellard
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This file is part of FFmpeg.
  *
  * Copyright (c) 2015 Matthieu Bouron <matthieu.bouron stupeflix.com>

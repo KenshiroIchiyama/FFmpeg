@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC encoder utilities
  * Copyright (C) 2015 Rostislav Pehlivanov
  *

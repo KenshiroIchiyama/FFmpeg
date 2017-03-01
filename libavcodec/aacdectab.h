@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC decoder data
  * Copyright (c) 2005-2006 Oded Shimon ( ods15 ods15 dyndns org )
  * Copyright (c) 2006-2007 Maxim Gavrilov ( maxim.gavrilov gmail com )

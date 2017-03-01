@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MPEG-2 transport stream defines
  * Copyright (c) 2003 Fabrice Bellard
  *

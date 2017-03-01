@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016 Reimar Döffinger <Reimar.Doeffinger@gmx.de>
+ * Copyright (c) 2016 Reimar D旦ffinger <Reimar.Doeffinger@gmx.de>
  *
  * This file is part of FFmpeg.
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Musepack SV8 decoder
  * Copyright (c) 2007 Konstantin Shishkov
  *

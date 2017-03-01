@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MOV, 3GP, MP4 muxer
  * Copyright (c) 2003 Thomas Raivio
  * Copyright (c) 2004 Gildas Bazin <gbazin at videolan dot org>

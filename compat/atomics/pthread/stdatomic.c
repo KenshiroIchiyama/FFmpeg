@@ -18,7 +18,7 @@
 
 /*
  * based on vlc_atomic.h from VLC
- * Copyright (C) 2010 Rémi Denis-Courmont
+ * Copyright (C) 2010 R辿mi Denis-Courmont
  */
 
 #include <pthread.h>

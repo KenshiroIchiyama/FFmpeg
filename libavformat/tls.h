@@ -1,4 +1,4 @@
-/*
+﻿/*
  * TLS/SSL Protocol
  * Copyright (c) 2011 Martin Storsjo
  *

@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Copyright (c) 2016 Davinder Singh (DSM_) <ds.mudhar<@gmail.com>
  *
  * This file is part of FFmpeg.

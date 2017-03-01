@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Monkey's Audio lossless audio decoder
  * Copyright (c) 2007 Benjamin Zores <ben@geexbox.org>
  *  based upon libdemac from Dave Chapman.

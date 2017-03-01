@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2008 BBC, Anuradha Suraparaju <asuraparaju at gmail dot com >
  *
  * This file is part of FFmpeg.

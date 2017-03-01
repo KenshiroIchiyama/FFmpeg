@@ -1,4 +1,4 @@
-/*
+﻿/*
  * JPEG 2000 common defines, structures and functions
  * Copyright (c) 2007 Kamil Nowosad
  * Copyright (c) 2013 Nicolas Bertrand <nicoinattendu@gmail.com>

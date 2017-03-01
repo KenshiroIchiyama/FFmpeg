@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Microsoft Screen 2 (aka Windows Media Video V9 Screen) decoder
  *
  * This file is part of FFmpeg.

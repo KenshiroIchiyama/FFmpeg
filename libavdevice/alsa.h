@@ -1,4 +1,4 @@
-/*
+﻿/*
  * ALSA input and output
  * Copyright (c) 2007 Luca Abeni ( lucabe72 email it )
  * Copyright (c) 2007 Benoit Fouet ( benoit fouet free fr )

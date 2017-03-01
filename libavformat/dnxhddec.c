@@ -1,7 +1,7 @@
 /*
  * RAW DNxHD (SMPTE VC-3) demuxer
  * Copyright (c) 2008 Baptiste Coudurier <baptiste.coudurier@gmail.com>
- * Copyright (c) 2009 Reimar Döffinger <Reimar.Doeffinger@gmx.de>
+ * Copyright (c) 2009 Reimar D旦ffinger <Reimar.Doeffinger@gmx.de>
  *
  * This file is part of FFmpeg.
  *

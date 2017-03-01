@@ -1,4 +1,4 @@
-/*
+﻿/*
  * IEC 61937 common header
  * Copyright (c) 2009 Bartlomiej Wolowiec
  *

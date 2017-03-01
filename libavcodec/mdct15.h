@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2017 Rostislav Pehlivanov <atomnuker@gmail.com>
  *
  * This file is part of FFmpeg.

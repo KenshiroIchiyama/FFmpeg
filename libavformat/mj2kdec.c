@@ -1,6 +1,6 @@
 /*
  * MJPEG 2000 Demuxer
- * Copyright (c) 2016 Ståle Kristoffersen
+ * Copyright (c) 2016 St奪le Kristoffersen
  *
  * This file is part of FFmpeg.
  *

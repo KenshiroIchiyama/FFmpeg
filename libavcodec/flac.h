@@ -1,4 +1,4 @@
-/*
+﻿/*
  * FLAC (Free Lossless Audio Codec) decoder/demuxer common functions
  * Copyright (c) 2008 Justin Ruggles
  *

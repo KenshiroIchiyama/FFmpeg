@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MOV CENC (Common Encryption) writer
  * Copyright (c) 2015 Eran Kornblau <erankor at gmail dot com>
  *

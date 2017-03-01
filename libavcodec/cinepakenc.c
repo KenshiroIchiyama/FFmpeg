@@ -1,5 +1,5 @@
 /*
- * Cinepak encoder (c) 2011 Tomas Härdin
+ * Cinepak encoder (c) 2011 Tomas H辰rdin
  * http://titan.codemill.se/~tomhar/cinepakenc.patch
  *
  * Fixes and improvements, vintage decoders compatibility

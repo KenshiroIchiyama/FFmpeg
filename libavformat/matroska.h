@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Matroska constants
  * Copyright (c) 2003-2004 The FFmpeg project
  *

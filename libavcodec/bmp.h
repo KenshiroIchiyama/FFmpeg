@@ -1,4 +1,4 @@
-/*
+﻿/*
  * internals for BMP codecs
  * Copyright (c) 2005 Mans Rullgard
  *

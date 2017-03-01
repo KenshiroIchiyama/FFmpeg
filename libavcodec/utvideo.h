@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Common Ut Video header
  * Copyright (c) 2011 Konstantin Shishkov
  *

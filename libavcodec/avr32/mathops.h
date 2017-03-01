@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Simple math operations
  * Copyright (c) 2009 Mans Rullgard <mans@mansr.com>
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2010 Alexander Strange <astrange@ithinksw.com>
  *
  * This file is part of FFmpeg.

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RV30/40 decoder common data declarations
  * Copyright (c) 2007 Mike Melanson, Konstantin Shishkov
  *

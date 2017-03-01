@@ -1,4 +1,4 @@
-/*
+﻿/*
  * H.264/HEVC common parsing code
  *
  * This file is part of FFmpeg.

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Indeo Video v3 compatible decoder
  * Copyright (c) 2009 - 2011 Maxim Poliakovski
  *

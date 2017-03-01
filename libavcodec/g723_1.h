@@ -1,4 +1,4 @@
-/*
+﻿/*
  * G.723.1 common header and data tables
  * Copyright (c) 2006 Benjamin Larsson
  * Copyright (c) 2010 Mohamed Naufal Basheer

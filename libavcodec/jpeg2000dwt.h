@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Discrete wavelet transform
  * Copyright (c) 2007 Kamil Nowosad
  *

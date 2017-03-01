@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2014 Lukasz Marek
  *
  * This file is part of FFmpeg.

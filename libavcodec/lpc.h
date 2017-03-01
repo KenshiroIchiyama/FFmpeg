@@ -1,4 +1,4 @@
-/*
+﻿/*
  * LPC utility code
  * Copyright (c) 2006  Justin Ruggles <justin.ruggles@gmail.com>
  *

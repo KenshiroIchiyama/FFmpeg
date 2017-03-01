@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) Stefano Sabatini | stefasab at gmail.com
  * Copyright (c) S.N. Hemanth Meenakshisundaram | smeenaks at ucsd.edu
  *

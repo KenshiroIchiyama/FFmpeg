@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Bink video decoder
  * Copyright (C) 2009 Konstantin Shishkov
  *

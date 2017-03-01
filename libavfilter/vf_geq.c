@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2006 Michael Niedermayer <michaelni@gmx.at>
- * Copyright (C) 2012 Clément Bœsch <u pkh me>
+ * Copyright (C) 2012 Clテゥment Bナ都ch <u pkh me>
  *
  * This file is part of FFmpeg.
  *
@@ -23,7 +23,7 @@
  * @file
  * Generic equation change filter
  * Originally written by Michael Niedermayer for the MPlayer project, and
- * ported by Clément Bœsch for FFmpeg.
+ * ported by Clテゥment Bナ都ch for FFmpeg.
  */
 
 #include "libavutil/avassert.h"

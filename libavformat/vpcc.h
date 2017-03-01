@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2016 Google Inc.
  * Copyright (c) 2016 KongQun Yang (kqyang@google.com)
  *

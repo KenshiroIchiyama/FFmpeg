@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Texture block module
  * Copyright (C) 2015 Vittorio Giovara <vittorio.giovara@gmail.com>
  *

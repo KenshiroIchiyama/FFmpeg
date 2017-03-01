@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015-2016 Clément Bœsch <u pkh me>
+ * Copyright (c) 2015-2016 Clテゥment Bナ都ch <u pkh me>
  *
  * This file is part of FFmpeg.
  *

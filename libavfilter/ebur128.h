@@ -1,5 +1,5 @@
-/*
- * Copyright (c) 2011 Jan Kokemüller
+﻿/*
+ * Copyright (c) 2011 Jan Kokem端ller
  *
  * This file is part of FFmpeg.
  *

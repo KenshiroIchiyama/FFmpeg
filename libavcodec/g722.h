@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) CMU 1993 Computer Science, Speech Group
  *                        Chengxiang Lu and Alex Hauptmann
  * Copyright (c) 2005 Steve Underwood <steveu at coppice.org>

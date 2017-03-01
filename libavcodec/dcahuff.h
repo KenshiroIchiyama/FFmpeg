@@ -1,4 +1,4 @@
-/*
+﻿/*
  * DCA compatible decoder - huffman tables
  * Copyright (C) 2004 Gildas Bazin
  * Copyright (C) 2007 Konstantin Shishkov

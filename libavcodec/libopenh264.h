@@ -1,4 +1,4 @@
-/*
+﻿/*
  * OpenH264 shared utils
  * Copyright (C) 2014 Martin Storsjo
  *

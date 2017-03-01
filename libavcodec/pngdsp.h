@@ -1,4 +1,4 @@
-/*
+﻿/*
  * PNG image format
  * Copyright (c) 2008 Loren Merrit <lorenm@u.washington.edu>
  *

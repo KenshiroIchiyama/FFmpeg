@@ -1,5 +1,5 @@
 /*
- * originally by Andreas Öman (andoma)
+ * originally by Andreas テ卜an (andoma)
  * some changes by Alexander Strange
  */
 

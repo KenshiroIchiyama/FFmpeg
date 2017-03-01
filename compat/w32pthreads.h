@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2010-2011 x264 project
  *
  * Authors: Steven Walters <kemuri9@gmail.com>

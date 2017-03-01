@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2012 Clément Bœsch
+ * Copyright (c) 2012 Clテゥment Bナ都ch
  *
  * This file is part of FFmpeg.
  *

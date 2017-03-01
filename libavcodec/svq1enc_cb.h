@@ -1,4 +1,4 @@
-/*
+﻿/*
  * SVQ1 Encoder
  * Copyright (C) 2004 Mike Melanson <melanson@pcisys.net>
  *

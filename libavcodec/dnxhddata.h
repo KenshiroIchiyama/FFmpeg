@@ -1,4 +1,4 @@
-/*
+﻿/*
  * VC3/DNxHD decoder.
  * Copyright (c) 2007 SmartJog S.A., Baptiste Coudurier <baptiste dot coudurier at smartjog dot com>
  *

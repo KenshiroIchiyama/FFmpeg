@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2011 Smartjog S.A.S, Clément Bœsch <clement.boesch@smartjog.com>
+ * Copyright (c) 2011 Smartjog S.A.S, Clテゥment Bナ都ch <clement.boesch@smartjog.com>
  *
  * This file is part of FFmpeg.
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Snappy module
  * Copyright (c) Luca Barbato
  *

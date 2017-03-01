@@ -1,4 +1,4 @@
-#ifndef __WINDOWS2LINUX_H__
+﻿#ifndef __WINDOWS2LINUX_H__
 #define __WINDOWS2LINUX_H__
 
 /*

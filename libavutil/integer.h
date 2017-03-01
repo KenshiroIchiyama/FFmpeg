@@ -1,4 +1,4 @@
-/*
+﻿/*
  * arbitrary precision integers
  * Copyright (c) 2004 Michael Niedermayer <michaelni@gmx.at>
  *

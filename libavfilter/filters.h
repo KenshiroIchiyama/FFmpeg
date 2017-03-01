@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Filters implementation helper functions
  *
  * This file is part of FFmpeg.

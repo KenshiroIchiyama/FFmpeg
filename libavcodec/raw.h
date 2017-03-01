@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Raw Video Codec
  * Copyright (c) 2001 Fabrice Bellard
  *

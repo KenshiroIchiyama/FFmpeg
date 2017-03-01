@@ -1,4 +1,4 @@
-/*
+﻿/*
  * APNG common header
  * Copyright (c) 2014 Benoit Fouet
  *

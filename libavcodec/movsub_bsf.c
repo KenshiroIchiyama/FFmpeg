@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2008 Reimar Döffinger
+ * Copyright (c) 2008 Reimar D旦ffinger
  *
  * This file is part of FFmpeg.
  *

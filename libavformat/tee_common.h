@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Tee common code
  * Copyright (c) 2016 Michael Niedermayer <michael@niedermayer.cc>
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AVC helper functions for muxers
  * Copyright (c) 2008 Aurelien Jacobs <aurel@gnuage.org>
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * SVQ1 encoder
  *
  * This file is part of FFmpeg.

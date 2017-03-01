@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC Spectral Band Replication decoding data
  * Copyright (c) 2008-2009 Robert Swain ( rob opendot cl )
  *

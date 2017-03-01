@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Blackmagic DeckLink common code
  * Copyright (c) 2013-2014 Ramiro Polla, Luca Barbato, Deti Fliegl
  *

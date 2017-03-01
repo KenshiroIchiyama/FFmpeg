@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2012 Peng Gao <peng@multicorewareinc.com>
  * Copyright (C) 2012 Li   Cao <li@multicorewareinc.com>
  * Copyright (C) 2012 Wei  Gao <weigao@multicorewareinc.com>

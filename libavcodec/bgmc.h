@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Block Gilbert-Moore decoder
  * Copyright (c) 2010 Thilo Borgmann <thilo.borgmann _at_ mail.de>
  *

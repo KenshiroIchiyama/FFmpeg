@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2017 Google Inc.
  *
  * This file is part of FFmpeg.

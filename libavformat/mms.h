@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MMS protocol common definitions.
  * Copyright (c) 2010 Zhentan Feng <spyfeng at gmail dot com>
  *

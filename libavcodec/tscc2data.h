@@ -1,4 +1,4 @@
-/*
+﻿/*
  * TechSmith Screen Codec 2 (aka Dora) decoder
  * Copyright (c) 2012 Konstantin Shishkov
  *

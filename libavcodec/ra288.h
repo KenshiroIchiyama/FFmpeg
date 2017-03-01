@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RealAudio 2.0 (28.8K)
  * Copyright (c) 2003 The FFmpeg project
  *

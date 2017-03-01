@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2010 Nicolas George
  * Copyright (c) 2011 Stefano Sabatini
- * Copyright (c) 2012 Clément Bœsch
+ * Copyright (c) 2012 Clテゥment Bナ都ch
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal

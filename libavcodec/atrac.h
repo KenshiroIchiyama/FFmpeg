@@ -1,4 +1,4 @@
-/*
+﻿/*
  * common functions for the ATRAC family of decoders
  *
  * Copyright (c) 2009-2013 Maxim Poliakovski

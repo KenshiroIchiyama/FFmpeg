@@ -1,4 +1,4 @@
-#ifndef AVCODEC_PPC_FFT_VSX_H
+﻿#ifndef AVCODEC_PPC_FFT_VSX_H
 #define AVCODEC_PPC_FFT_VSX_H
 /*
  * FFT  transform, optimized with VSX built-in functions

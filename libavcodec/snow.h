@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2004 Michael Niedermayer <michaelni@gmx.at>
  * Copyright (C) 2006 Robert Edele <yartrebo@earthlink.net>
  *

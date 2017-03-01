@@ -1,4 +1,4 @@
-/*
+﻿/*
  * ATRAC 1 compatible decoder data
  * Copyright (c) 2009 Maxim Poliakovski
  * Copyright (c) 2009 Benjamin Larsson

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * FFM (ffserver live feed) common header
  * Copyright (c) 2001 Fabrice Bellard
  *

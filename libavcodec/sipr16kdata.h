@@ -1,4 +1,4 @@
-/*
+﻿/*
  * SIPR decoder for the 16k mode
  *
  * Copyright (c) 2008 Vladimir Voroshilov

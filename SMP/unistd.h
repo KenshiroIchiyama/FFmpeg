@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MSVC unistd.h compatability header.
  * Copyright (c) 2015 Matthew Oliver
  *

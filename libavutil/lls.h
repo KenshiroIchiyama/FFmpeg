@@ -1,4 +1,4 @@
-/*
+﻿/*
  * linear least squares model
  *
  * Copyright (c) 2006 Michael Niedermayer <michaelni@gmx.at>

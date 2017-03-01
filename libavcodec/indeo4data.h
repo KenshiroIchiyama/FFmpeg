@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Indeo Video Interactive 4 compatible decoder
  * Copyright (c) 2009-2010 Maxim Poliakovski
  *

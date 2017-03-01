@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AMR wideband data and definitions
  * Copyright (c) 2010 Marcelo Galvao Povoa
  *

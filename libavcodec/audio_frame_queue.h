@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Audio Frame Queue
  * Copyright (c) 2012 Justin Ruggles
  *

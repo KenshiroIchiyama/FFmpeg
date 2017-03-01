@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Constants for DV codec
  * Copyright (c) 2002 Fabrice Bellard
  *

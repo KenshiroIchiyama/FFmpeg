@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2010 Georg Martius <georg.martius@web.de>
  * Copyright (C) 2010 Daniel G. Taylor <dan@programmer-art.org>
  *

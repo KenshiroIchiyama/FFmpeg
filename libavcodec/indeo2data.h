@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Intel Indeo 2 codec
  * copyright (c) 2005 Konstantin Shishkov
  *

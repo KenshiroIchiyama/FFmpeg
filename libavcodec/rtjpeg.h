@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RTJpeg decoding functions
  * copyright (c) 2006 Reimar Doeffinger
  *

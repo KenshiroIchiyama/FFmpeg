@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2013 Nicolas George
  *
  * This file is part of FFmpeg.

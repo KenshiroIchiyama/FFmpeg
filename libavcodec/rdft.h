@@ -1,4 +1,4 @@
-/*
+﻿/*
  * (I)RDFT transforms
  * Copyright (c) 2009 Alex Converse <alex dot converse at gmail dot com>
  *

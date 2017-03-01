@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Sony OpenMG (OMA) common data
  *
  * This file is part of FFmpeg.

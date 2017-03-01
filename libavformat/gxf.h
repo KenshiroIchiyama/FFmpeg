@@ -1,4 +1,4 @@
-/*
+﻿/*
  * GXF demuxer
  * copyright (c) 2006 Reimar Doeffinger
  *

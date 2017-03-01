@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2011 Baptiste Coudurier
  * Copyright (c) 2011 Stefano Sabatini
- * Copyright (c) 2012 Clément Bœsch
+ * Copyright (c) 2012 Clテゥment Bナ都ch
  *
  * This file is part of FFmpeg.
  *

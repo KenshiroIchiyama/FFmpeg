@@ -1,7 +1,7 @@
-/*
+﻿/*
  * Helpers for generating hard-coded VLC tables
  *
- * Copyright (c) 2014 Reimar Döffinger <Reimar.Doeffinger@gmx.de>
+ * Copyright (c) 2014 Reimar D旦ffinger <Reimar.Doeffinger@gmx.de>
  *
  * This file is part of FFmpeg.
  *

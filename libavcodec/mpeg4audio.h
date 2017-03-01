@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MPEG-4 Audio common header
  * Copyright (c) 2008 Baptiste Coudurier <baptiste.coudurier@free.fr>
  *

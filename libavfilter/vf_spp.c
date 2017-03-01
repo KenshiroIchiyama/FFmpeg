@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2003 Michael Niedermayer <michaelni@gmx.at>
- * Copyright (c) 2013 Clément Bœsch <u pkh me>
+ * Copyright (c) 2013 Clテゥment Bナ都ch <u pkh me>
  *
  * This file is part of FFmpeg.
  *
@@ -28,7 +28,7 @@
  * Enhancement of Compressed Images (1999)"
  *
  * Originally written by Michael Niedermayer for the MPlayer project, and
- * ported by Clément Bœsch for FFmpeg.
+ * ported by Clテゥment Bナ都ch for FFmpeg.
  */
 
 #include "libavutil/avassert.h"

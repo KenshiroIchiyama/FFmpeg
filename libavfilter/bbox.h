@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2005 Robert Edele <yartrebo@earthlink.net>
  *
  * This file is part of FFmpeg.

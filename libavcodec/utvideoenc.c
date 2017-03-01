@@ -1,6 +1,6 @@
 /*
  * Ut Video encoder
- * Copyright (c) 2012 Jan Ekström
+ * Copyright (c) 2012 Jan Ekstr旦m
  *
  * This file is part of FFmpeg.
  *

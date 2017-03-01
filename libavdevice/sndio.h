@@ -1,4 +1,4 @@
-/*
+﻿/*
  * sndio play and grab interface
  * Copyright (c) 2010 Jacob Meuser
  *

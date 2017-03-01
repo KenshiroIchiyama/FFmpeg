@@ -1,4 +1,4 @@
-/*
+﻿/*
  * copyright (c) 2009 Michael Niedermayer
  *
  * This file is part of FFmpeg.

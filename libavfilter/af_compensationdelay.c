@@ -48,7 +48,7 @@ static const AVOption compensationdelay_options[] = {
     { "m",    "set meter distance", OFFSET(distance_m),  AV_OPT_TYPE_INT,    {.i64=0},    0, 100, A },
     { "dry",  "set dry amount",     OFFSET(dry),         AV_OPT_TYPE_DOUBLE, {.dbl=0},    0,   1, A },
     { "wet",  "set wet amount",     OFFSET(wet),         AV_OPT_TYPE_DOUBLE, {.dbl=1},    0,   1, A },
-    { "temp", "set temperature °C", OFFSET(temp),        AV_OPT_TYPE_INT,    {.i64=20}, -50,  50, A },
+    { "temp", "set temperature 属C", OFFSET(temp),        AV_OPT_TYPE_INT,    {.i64=20}, -50,  50, A },
     { NULL }
 };
 

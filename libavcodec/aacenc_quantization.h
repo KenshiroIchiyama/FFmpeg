@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC encoder quantizer
  * Copyright (C) 2015 Rostislav Pehlivanov
  *

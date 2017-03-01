@@ -44,11 +44,11 @@
  * https://cgit.freedesktop.org/gstreamer/gst-plugins-bad/tree/sys/androidmedia/
  *
  * Copyright (C) 2012, Collabora Ltd.
- *   Author: Sebastian Dröge <sebastian.droege@collabora.co.uk>
+ *   Author: Sebastian Dr旦ge <sebastian.droege@collabora.co.uk>
  *
- * Copyright (C) 2012, Rafaël Carré <funman@videolanorg>
+ * Copyright (C) 2012, Rafa谷l Carr辿 <funman@videolanorg>
  *
- * Copyright (C) 2015, Sebastian Dröge <sebastian@centricular.com>
+ * Copyright (C) 2015, Sebastian Dr旦ge <sebastian@centricular.com>
  *
  * Copyright (C) 2014-2015, Collabora Ltd.
  *   Author: Matthieu Bouron <matthieu.bouron@gcollabora.com>
@@ -236,9 +236,9 @@ void ff_mediacodec_sw_buffer_copy_yuv420_packed_semi_planar(AVCodecContext *avct
  *****************************************************************************
  * qcom.c : pixel format translation for Qualcomm tiled nv12
  *****************************************************************************
- * Copyright © 2012 Rafaël Carré
+ * Copyright 息 2012 Rafa谷l Carr辿
  *
- * Authors: Rafaël Carré <funman@videolanorg>
+ * Authors: Rafa谷l Carr辿 <funman@videolanorg>
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU Lesser General Public License as published by

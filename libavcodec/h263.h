@@ -1,4 +1,4 @@
-/*
+﻿/*
  * H.263 internal header
  *
  * This file is part of FFmpeg.

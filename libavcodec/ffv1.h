@@ -1,4 +1,4 @@
-/*
+﻿/*
  * FFV1 codec for libavcodec
  *
  * Copyright (c) 2003-2012 Michael Niedermayer <michaelni@gmx.at>

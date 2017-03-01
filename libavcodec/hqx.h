@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Canopus HQX decoder
  *
  * This file is part of FFmpeg.

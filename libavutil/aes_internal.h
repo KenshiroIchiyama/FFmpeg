@@ -1,4 +1,4 @@
-/*
+﻿/*
  * copyright (c) 2015 Rodger Combs <rodger.combs@gmail.com>
  *
  * This file is part of FFmpeg.

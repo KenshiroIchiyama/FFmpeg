@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC Spectral Band Replication function declarations
  * Copyright (c) 2008-2009 Robert Swain ( rob opendot cl )
  * Copyright (c) 2010      Alex Converse <alex.converse@gmail.com>

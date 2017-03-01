@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2012 Konstantin Shishkov
  *
  * This file is part of FFmpeg.

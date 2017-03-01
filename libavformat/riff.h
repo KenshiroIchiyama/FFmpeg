@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RIFF common functions and data
  * copyright (c) 2000 Fabrice Bellard
  *

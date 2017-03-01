@@ -1,4 +1,4 @@
-/*
+﻿/*
  * TwinVQ decoder
  * Copyright (c) 2009 Vitor Sessak
  *

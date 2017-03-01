@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Creative Voice File demuxer.
  * Copyright (c) 2006  Aurelien Jacobs <aurel@gnuage.org>
  *

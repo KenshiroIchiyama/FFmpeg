@@ -1,4 +1,4 @@
-/*
+﻿/*
  * RealVideo 3/4 decoder
  * Copyright (c) 2007 Konstantin Shishkov
  *

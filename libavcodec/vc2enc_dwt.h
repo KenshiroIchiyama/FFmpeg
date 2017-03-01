@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2016 Open Broadcast Systems Ltd.
  * Author        2016 Rostislav Pehlivanov <atomnuker@gmail.com>
  *

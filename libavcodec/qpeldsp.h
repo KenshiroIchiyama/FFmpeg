@@ -1,4 +1,4 @@
-/*
+﻿/*
  * quarterpel DSP functions
  *
  * This file is part of FFmpeg.

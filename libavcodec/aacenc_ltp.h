@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC encoder long term prediction extension
  * Copyright (C) 2015 Rostislav Pehlivanov
  *

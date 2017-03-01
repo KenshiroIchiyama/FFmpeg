@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC encoder data
  * Copyright (c) 2015 Rostislav Pehlivanov ( atomnuker gmail com )
  *

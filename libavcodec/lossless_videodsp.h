@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Lossless video DSP utils
  *
  * This file is part of FFmpeg.

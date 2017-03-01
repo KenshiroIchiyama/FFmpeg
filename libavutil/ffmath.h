@@ -1,4 +1,4 @@
-/*
+﻿/*
  * copyright (c) 2016 Ganesh Ajjanagadde <gajjanag@gmail.com>
  *
  * This file is part of FFmpeg.

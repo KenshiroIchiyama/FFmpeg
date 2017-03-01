@@ -1,4 +1,4 @@
-/*
+﻿/*
  * ALAC encoder and decoder common data
  *
  * This file is part of FFmpeg.

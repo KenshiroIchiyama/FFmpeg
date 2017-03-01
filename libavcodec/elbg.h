@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2007 Vitor Sessak <vitor1001@gmail.com>
  *
  * This file is part of FFmpeg.

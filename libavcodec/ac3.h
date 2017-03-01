@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Common code between the AC-3 encoder and decoder
  * Copyright (c) 2000, 2001, 2002 Fabrice Bellard
  *

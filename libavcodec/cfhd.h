@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2015 Kieran Kunhya
  *
  * This file is part of FFmpeg.

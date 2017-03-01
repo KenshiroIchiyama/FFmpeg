@@ -1,4 +1,4 @@
-/*
+﻿/*
  * COOK compatible decoder data
  * Copyright (c) 2003 Sascha Sommer
  * Copyright (c) 2005 Benjamin Larsson

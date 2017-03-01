@@ -1,4 +1,4 @@
-/*
+﻿/*
  * exp golomb vlc stuff
  * Copyright (c) 2003 Michael Niedermayer <michaelni@gmx.at>
  * Copyright (c) 2004 Alex Beregszaszi

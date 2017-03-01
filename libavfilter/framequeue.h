@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Generic frame queue
  * Copyright (c) 2016 Nicolas George
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2015 Muhammad Faiz <mfcc64@gmail.com>
  *
  * This file is part of FFmpeg.

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * TIFF Common Routines
  * Copyright (c) 2013 Thilo Borgmann <thilo.borgmann _at_ mail.de>
  *

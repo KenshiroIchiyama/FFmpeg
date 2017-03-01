@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Intel MediaSDK QSV utility functions
  *
  * copyright (c) 2013 Luca Barbato

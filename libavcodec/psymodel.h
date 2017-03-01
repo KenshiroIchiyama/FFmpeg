@@ -1,4 +1,4 @@
-/*
+﻿/*
  * audio encoder psychoacoustic model
  * Copyright (C) 2008 Konstantin Shishkov
  *

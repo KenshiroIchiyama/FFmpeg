@@ -1,4 +1,4 @@
-/*
+﻿/*
  * gain code, gain pitch and pitch delay decoding
  *
  * Copyright (c) 2008 Vladimir Voroshilov

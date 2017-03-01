@@ -1,4 +1,4 @@
-/*
+﻿/*
  * GSM common header
  *
  * This file is part of FFmpeg.

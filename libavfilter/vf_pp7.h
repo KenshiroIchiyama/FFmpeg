@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2005 Michael Niedermayer <michaelni@gmx.at>
  * Copyright (c) 2014 Arwa Arif <arwaarif1994@gmail.com>
  *

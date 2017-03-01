@@ -1,4 +1,4 @@
-/*
+﻿/*
  * ISO Media common code
  * copyright (c) 2001 Fabrice Bellard
  * copyright (c) 2002 Francois Revol <revol@free.fr>

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Correctly include the correct math.h header based on which native
  * Windows compiler is in use.
  * Copyright (c) 2015 Matthew Oliver

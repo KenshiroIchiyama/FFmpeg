@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This file is part of FFmpeg.
  *
  * FFmpeg is free software; you can redistribute it and/or
@@ -18,7 +18,7 @@
 
 /*
  * based on vlc_atomic.h from VLC
- * Copyright (C) 2010 Rémi Denis-Courmont
+ * Copyright (C) 2010 R辿mi Denis-Courmont
  */
 
 #ifndef COMPAT_ATOMICS_PTHREAD_STDATOMIC_H

@@ -2,7 +2,7 @@
  * Concat URL protocol
  * Copyright (c) 2006 Steve Lhomme
  * Copyright (c) 2007 Wolfram Gloger
- * Copyright (c) 2010 Michele Orrù
+ * Copyright (c) 2010 Michele Orr湛
  *
  * This file is part of FFmpeg.
  *

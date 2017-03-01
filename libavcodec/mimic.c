@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2005  Ole André Vadla Ravnås <oleavr@gmail.com>
+ * Copyright (C) 2005  Ole Andr辿 Vadla Ravn奪s <oleavr@gmail.com>
  * Copyright (C) 2008  Ramiro Polla
  *
  * This file is part of FFmpeg.

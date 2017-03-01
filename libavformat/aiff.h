@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AIFF/AIFF-C muxer/demuxer common header
  * Copyright (c) 2006  Patrick Guimond
  *

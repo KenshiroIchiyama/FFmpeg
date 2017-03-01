@@ -1,4 +1,4 @@
-/*
+﻿/*
  * TAK decoder/demuxer common code
  * Copyright (c) 2012 Paul B Mahol
  *

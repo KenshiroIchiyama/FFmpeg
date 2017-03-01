@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2011 KO Myung-Hun <komh@chollian.net>
  *
  * This file is part of FFmpeg.

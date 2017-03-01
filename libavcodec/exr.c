@@ -30,7 +30,7 @@
  * For more information on the OpenEXR format, visit:
  *  http://openexr.com/
  *
- * exr_flt2uint() and exr_halflt2uint() is credited to Reimar Döffinger.
+ * exr_flt2uint() and exr_halflt2uint() is credited to Reimar D旦ffinger.
  * exr_half2float() is credited to Aaftab Munshi, Dan Ginsburg, Dave Shreiner.
  */
 

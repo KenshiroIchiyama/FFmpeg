@@ -1,4 +1,4 @@
-/*
+﻿/*
  * a64 video encoder - c64 colors in rgb (Pepto)
  * Copyright (c) 2009 Tobias Bindhammer
  *

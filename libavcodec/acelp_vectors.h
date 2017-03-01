@@ -1,4 +1,4 @@
-/*
+﻿/*
  * adaptive and fixed codebook vector operations for ACELP-based codecs
  *
  * Copyright (c) 2008 Vladimir Voroshilov

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * WMA compatible decoder
  * copyright (c) 2002 The FFmpeg Project
  *

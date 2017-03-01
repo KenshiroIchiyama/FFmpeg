@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Opus decoder/demuxer common functions
  * Copyright (c) 2012 Andrew D'Addesio
  * Copyright (c) 2013-2014 Mozilla Corporation

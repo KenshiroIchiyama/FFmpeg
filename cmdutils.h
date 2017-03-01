@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Various utilities for command line tools
  * copyright (c) 2003 Fabrice Bellard
  *

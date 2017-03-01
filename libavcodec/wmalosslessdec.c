@@ -2,7 +2,7 @@
  * Windows Media Audio Lossless decoder
  * Copyright (c) 2007 Baptiste Coudurier, Benjamin Larsson, Ulion
  * Copyright (c) 2008 - 2011 Sascha Sommer, Benjamin Larsson
- * Copyright (c) 2011 Andreas Öman
+ * Copyright (c) 2011 Andreas テ卜an
  * Copyright (c) 2011 - 2012 Mashiat Sarker Shakkhar
  *
  * This file is part of FFmpeg.

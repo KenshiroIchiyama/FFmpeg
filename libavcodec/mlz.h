@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2016 Umair Khan <omerjerk@gmail.com>
  *
  * This file is part of FFmpeg.

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * ADX ADPCM codecs
  * Copyright (c) 2001,2003 BERO
  *

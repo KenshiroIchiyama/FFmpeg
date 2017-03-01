@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Intel MediaSDK QSV encoder/decoder shared code
  *
  * This file is part of FFmpeg.

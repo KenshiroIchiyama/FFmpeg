@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Real Audio 1.0 (14.4K)
  * Copyright (c) 2003 The FFmpeg project
  *

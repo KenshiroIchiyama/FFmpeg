@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Mpeg video formats-related defines and utility functions
  *
  * This file is part of FFmpeg.

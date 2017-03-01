@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Range coder
  * Copyright (c) 2004 Michael Niedermayer <michaelni@gmx.at>
  *

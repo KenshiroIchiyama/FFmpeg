@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2003 Daniel Moreno <comac AT comac DOT darktech DOT org>
  * Copyright (c) 2010 Baptiste Coudurier
  * Copyright (c) 2012 Loren Merritt

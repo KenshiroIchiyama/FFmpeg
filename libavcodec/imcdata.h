@@ -1,4 +1,4 @@
-/*
+﻿/*
  * IMC compatible decoder
  * Copyright (c) 2002-2004 Maxim Poliakovski
  * Copyright (c) 2006 Benjamin Larsson

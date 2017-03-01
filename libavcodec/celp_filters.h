@@ -1,4 +1,4 @@
-/*
+﻿/*
  * various filters for CELP-based codecs
  *
  * Copyright (c) 2008 Vladimir Voroshilov

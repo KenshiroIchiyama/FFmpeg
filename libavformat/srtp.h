@@ -1,4 +1,4 @@
-/*
+﻿/*
  * SRTP encryption/decryption
  * Copyright (c) 2012 Martin Storsjo
  *

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * ATRAC3 compatible decoder data
  * Copyright (c) 2006-2007 Maxim Poliakovski
  * Copyright (c) 2006-2007 Benjamin Larsson

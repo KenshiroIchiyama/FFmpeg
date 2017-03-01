@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2016 Alexandra Hájková
+ * Copyright (c) 2016 Alexandra H叩jkov叩
  *
  * This file is part of FFmpeg.
  *

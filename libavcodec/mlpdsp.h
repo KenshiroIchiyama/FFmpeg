@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MLP codec common header file
  * Copyright (c) 2007-2008 Ian Caulfield
  *

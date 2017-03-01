@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Generic buffer queue
  * Copyright (c) 2012 Nicolas George
  *

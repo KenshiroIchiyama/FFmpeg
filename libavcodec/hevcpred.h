@@ -1,4 +1,4 @@
-/*
+﻿/*
  * HEVC video Decoder
  *
  * Copyright (C) 2012 - 2013 Guillaume Martres

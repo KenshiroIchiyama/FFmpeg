@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Loongson SIMD utils
  *
  * Copyright (c) 2016 Loongson Technology Corporation Limited

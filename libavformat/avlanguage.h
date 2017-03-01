@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Cyril Comparon, Larbi Joubala, Resonate-MP4 2009
  *
  * This file is part of FFmpeg.

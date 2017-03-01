@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2012 Fredrik Mellbin
- * Copyright (c) 2013 Clément Bœsch
+ * Copyright (c) 2013 Clテゥment Bナ都ch
  *
  * This file is part of FFmpeg.
  *
@@ -21,7 +21,7 @@
 
 /**
  * @file
- * Fieldmatching filter, ported from VFM filter (VapourSynth) by Clément.
+ * Fieldmatching filter, ported from VFM filter (VapourSynth) by Clテゥment.
  * Fredrik Mellbin is the author of the VIVTC/VFM filter, which is itself a
  * light clone of the TIVTC/TFM (AviSynth) filter written by Kevin Stone
  * (tritical), the original author.

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (C) 2016 foo86
  *
  * This file is part of FFmpeg.

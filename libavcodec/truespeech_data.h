@@ -1,4 +1,4 @@
-/*
+﻿/*
  * DSP Group TrueSpeech compatible decoder
  * copyright (c) 2005 Konstantin Shishkov
  *

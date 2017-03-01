@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Lagarith range decoder
  * Copyright (c) 2009 Nathan Caldwell <saintdev (at) gmail.com>
  * Copyright (c) 2009 David Conrad

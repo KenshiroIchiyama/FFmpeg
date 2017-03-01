@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2010 Mark Heath mjpeg0 @ silicontrip dot org
- * Copyright (c) 2014 Clément Bœsch
+ * Copyright (c) 2014 Clテゥment Bナ都ch
  * Copyright (c) 2014 Dave Rice @dericed
  *
  * This file is part of FFmpeg.

@@ -1,4 +1,4 @@
-/*
+﻿/*
  * WavPack lossless audio encoder
  *
  * This file is part of FFmpeg.

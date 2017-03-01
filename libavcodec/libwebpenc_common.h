@@ -1,4 +1,4 @@
-/*
+﻿/*
  * WebP encoding support via libwebp
  * Copyright (c) 2013 Justin Ruggles <justin.ruggles@gmail.com>
  *

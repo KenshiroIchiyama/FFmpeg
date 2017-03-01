@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AC-3 DSP functions
  * Copyright (c) 2011 Justin Ruggles
  *

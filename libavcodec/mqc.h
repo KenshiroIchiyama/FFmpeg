@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MQ-coder: structures, common and decoder functions
  * Copyright (c) 2007 Kamil Nowosad
  *

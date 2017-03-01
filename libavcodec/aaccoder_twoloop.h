@@ -1,4 +1,4 @@
-/*
+﻿/*
  * AAC encoder twoloop coder
  * Copyright (C) 2008-2009 Konstantin Shishkov
  *

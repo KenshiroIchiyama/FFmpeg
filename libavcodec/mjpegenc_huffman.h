@@ -1,4 +1,4 @@
-/*
+﻿/*
  * MJPEG encoder
  * Copyright (c) 2016 William Ma, Ted Ying, Jerry Jiang
  *

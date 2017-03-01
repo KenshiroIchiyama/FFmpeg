@@ -1,4 +1,4 @@
-/*
+﻿/*
  * common functions for Indeo Video Interactive codecs (Indeo4 and Indeo5)
  *
  * Copyright (c) 2009 Maxim Poliakovski

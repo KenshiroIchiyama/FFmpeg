@@ -1,4 +1,4 @@
-/*
+﻿/*
  * IIR filter
  * Copyright (c) 2008 Konstantin Shishkov
  *

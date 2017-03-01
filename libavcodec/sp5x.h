@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Sunplus JPEG tables
  * Copyright (c) 2003 The FFmpeg project
  *

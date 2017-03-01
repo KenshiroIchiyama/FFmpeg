@@ -1,4 +1,4 @@
-/*
+﻿/*
  * "NUT" Container Format (de)muxer
  * Copyright (c) 2006 Michael Niedermayer
  *

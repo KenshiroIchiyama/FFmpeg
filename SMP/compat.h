@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Correctly setup required msvc compatibility options based on which native
  * Windows compiler is in use.
  * Copyright (c) 2015 Matthew Oliver
